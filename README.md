@@ -57,11 +57,14 @@ This analysis highlights key factors influencing retail sales, including product
 ---
 
 ## 📂 Project Structure
+
+```
 Retail-Sales-EDA/
 │
 ├── Retail_Sales_EDA.ipynb
 ├── Project Sales Dataset.csv
 └── README.md
+```
 
 
 ---
